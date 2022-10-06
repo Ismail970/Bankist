@@ -15,6 +15,16 @@
 
 - [**Live Site**](https://ismail-bankist.netlify.app/)
 
+#### Test accounts
+
+- **Account 1**
+  - Username : mt
+  - Password : 1111
+
+- **Account 2**
+  - Username : jd
+  - Password : 2222
+
 ## Process
 
 ### Built with
