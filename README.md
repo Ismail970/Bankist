@@ -1,6 +1,6 @@
 # Bankist
 
-- [**Demo**](https://ismail-bankist.netlify.app/
+- [**Demo**](https://ismail-bankist.netlify.app/) 
 
 ### Screenshot
 
